@@ -40,7 +40,7 @@ Für dein Projekt kannst du die folgenden Abschnitte in der `README.md` Datei an
 
 ---
 
-# [DEIN PROJEKTTITEL HIER] 🚀
+# 💠 DatengetriebeneCustomer Segmentation: Datengetriebene Einblicke 💠 
 
 > Eine kurze, prägnante Beschreibung deines Data Science Projekts in 1-2 Sätzen.
 
@@ -48,13 +48,31 @@ Für dein Projekt kannst du die folgenden Abschnitte in der `README.md` Datei an
 
 **Problemstellung:** 
 <!-- Beschreibe das Problem, das du lösen möchtest -->
+In diesem Projekt untersuche ich ein E-Commerce-Datenset mit Informationen über Kunden, Bestellungen und Produkte. 
 
-**Ziel:** 
+Für das Ziel müssen die Daten zunächst gründlich bereinigt werden, da sie sehr roh und unstrukturiert sind. Anschließend können wir durch eine explorative Analyse erste Muster, Zusammenhänge und wichtige Kennzahlen erkennen, die helfen, das Kunden- und Kaufverhalten besser zu verstehen.
+
+### **Ziel:** 
+
 <!-- Was ist das Hauptziel deines Projekts? -->
+Ziel ist es, das Kaufverhalten besser zu verstehen, wichtige Kundengruppen zu erkennen und erste Muster in den Daten sichtbar zu machen. 
+
+**Das Kundenverhalten verstehen und zentrale Segmente identifizieren**
+
+- Ermitteln, welche Kundengruppen den höchsten Umsatz generieren.
+- Kaufmuster analysieren: Häufigkeit, durchschnittlicher Bestellwert, Produkttypen, Vertriebskanäle.
+
+
+**Faktoren identifizieren, die Umsatz und Wiederkäufe beeinflussen**
+
+- Welche Kunden kehren zurück?
+- Welche Produkte sind am profitabelsten?
+- Wie beeinflussen Rabatte die Conversion Rate und den durchschnittlichen Warenkorbwert?
+
 
 **Methoden:** 
 <!-- Welche Techniken/Algorithmen verwendest du? -->
-
+✍️ später
 
 
 ## Setup
