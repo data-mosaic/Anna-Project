@@ -42,13 +42,14 @@ Für dein Projekt kannst du die folgenden Abschnitte in der `README.md` Datei an
 
 # 🚀 Customer Segmentation: Datengetriebene Einblicke 
 
-> Eine kurze, prägnante Beschreibung deines Data Science Projekts in 1-2 Sätzen.
+<!-- Eine kurze, prägnante Beschreibung deines Data Science Projekts in 1-2 Sätzen.-->
+In diesem Projekt untersuche ich ein E-Commerce-Datenset mit Informationen über Kunden, Bestellungen und Produkte. 
+
 
 ## 📊 Projektübersicht
 
 **Problemstellung:** 
 <!-- Beschreibe das Problem, das du lösen möchtest -->
-In diesem Projekt untersuche ich ein E-Commerce-Datenset mit Informationen über Kunden, Bestellungen und Produkte. 
 
 Für das Ziel müssen die Daten zunächst gründlich bereinigt werden, da sie sehr roh und unstrukturiert sind. Anschließend können wir durch eine explorative Analyse erste Muster, Zusammenhänge und wichtige Kennzahlen erkennen, die helfen, das Kunden- und Kaufverhalten besser zu verstehen.
 
