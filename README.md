@@ -40,7 +40,7 @@ Für dein Projekt kannst du die folgenden Abschnitte in der `README.md` Datei an
 
 ---
 
-# 💠 DatengetriebeneCustomer Segmentation: Datengetriebene Einblicke 💠 
+# 🚀 Customer Segmentation: Datengetriebene Einblicke 
 
 > Eine kurze, prägnante Beschreibung deines Data Science Projekts in 1-2 Sätzen.
 
