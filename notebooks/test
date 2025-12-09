@@ -1,0 +1,8 @@
+логаріфмічний розподіл
+
+plt.figure(figsize=(6,4))
+sns.histplot(df_orders['Orders.total'], bins=40, kde=True, log_scale=True)
+plt.title("Histogram (Log Scale): Orders.total")
+plt.xlabel("Orders.total (log scale)")
+plt.show()
+
