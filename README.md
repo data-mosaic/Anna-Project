@@ -60,7 +60,17 @@ Die geladenen Rohdaten waren unstrukturiert und enthielten zahlreiche fehlende, 
     (z. B. Kunden-ID + Erstellungsdatum, Bestell-ID + Bestelldatum).
 - Entfernen von Datensätzen ohne Produkt-ID sowie Überprüfung auf logische Konsistenz.
 - Feature Engineering: Hinzufügen der Kennzahl cost_price_ratio zur Bewertung der Marge je Bestellposition.
-- Nach der Bereinigung liegen vier strukturierte, analysierbare DataFrames vor, die als Grundlage für die explorative Datenanalyse dienen.
+- **Nach der Bereinigung liegen nun vier getrennte, klar strukturierte und analysierbare DataFrames vor sowie ein zusammengeführter Gesamtdatensatz (54 Spalten, 4194 Zeilen). Diese bilden die Grundlage für die weitere explorative Datenanalyse.**
+    
+    Der bereinigte Datenbestand umfasst:
+    
+    - **3054 eindeutige Kunden**
+        
+    - **3565 Bestellungen**
+        
+    - **4194 Bestellpositionen (Order Items)**
+        
+    - **1710 einzigartige Produkte**
 
 
 ## 📊 Explorative Datenanalyse (EDA)
