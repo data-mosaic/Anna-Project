@@ -37,7 +37,7 @@ https://www.kaggle.com/datasets/yunusemretokdemir/customer-segmentation/data
 
 Es handelt sich um unstrukturierte Rohdaten aus einer E-Commerce-Datenbank, vollständig in einer einzigen Tabelle abgelegt und nicht für Analysen vorbereitet. Die Datei enthält viele leere oder unvollständige Spalten.
 
-Nach Entfernen vollständig leerer Spalten wurden 75 Spalten für die weitere Verarbeitung geladen.  
+Nach Entfernen vollständig leerer Spalten wurden **60 Spalten** für die weitere Verarbeitung geladen.  
 Die Daten kombinieren Kunden-, Bestell-, Bestellpositions- und Produktinformationen, jedoch ohne klare Trennung der Entitäten.
 
 ### Warum diese Daten?
@@ -60,7 +60,7 @@ Die geladenen Rohdaten waren unstrukturiert und enthielten zahlreiche fehlende, 
     (z. B. Kunden-ID + Erstellungsdatum, Bestell-ID + Bestelldatum).
 - Entfernen von Datensätzen ohne Produkt-ID sowie Überprüfung auf logische Konsistenz.
 - Feature Engineering: Hinzufügen der Kennzahl cost_price_ratio zur Bewertung der Marge je Bestellposition.
-- **Nach der Bereinigung liegen nun vier getrennte, klar strukturierte und analysierbare DataFrames vor sowie ein zusammengeführter Gesamtdatensatz (54 Spalten, 4194 Zeilen). Diese bilden die Grundlage für die weitere explorative Datenanalyse.**
+- **Nach der Bereinigung liegen nun vier getrennte, klar strukturierte und analysierbare DataFrames vor sowie ein zusammengeführter Gesamtdatensatz (55 Spalten, 4194 Zeilen). Diese bilden die Grundlage für die weitere explorative Datenanalyse.**
     
     Der bereinigte Datenbestand umfasst:
     
