@@ -103,10 +103,11 @@ uv sync
 
 Notebooks in dieser Reihenfolge ausführen:
 
-1. notebooks/01_exploration.ipynb - raw owerview
-2. notebooks/02_preprocessing.ipynb - clean
-3. notebooks/03_modeling.ipynb - deep EDA
+1. notebooks/01_exploration.ipynb - 01_Data_Overview.ipynb
+2. notebooks/02_preprocessing.ipynb - 02_Data_Cleaning.ipynb
+3. notebooks/03_modeling.ipynb - 03_Exploratory_Analysis.ipynb
 4. notebooks/04_results.ipynb 
+
 <!--
 
 
