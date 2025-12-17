@@ -1,4 +1,5 @@
-# 🚀 Customer Segmentation: Datengetriebene Einblicke 
+# 🚀 Kundensegmentierung und Umsatzanalyse im E-Commerce
+
 
 <!-- Eine kurze, prägnante Beschreibung deines Data Science Projekts in 1-2 Sätzen.-->
 In diesem Projekt untersuche ich ein E-Commerce-Datenset mit Informationen über Kunden, Bestellungen und Produkte. 
@@ -9,7 +10,7 @@ In diesem Projekt untersuche ich ein E-Commerce-Datenset mit Informationen über
 **Problemstellung:** 
 <!-- Beschreibe das Problem, das du lösen möchtest -->
 
-Für das Ziel müssen die Daten zunächst gründlich bereinigt werden, da sie sehr roh und unstrukturiert sind. Anschließend können wir durch eine explorative Analyse erste Muster, Zusammenhänge und wichtige Kennzahlen erkennen, die helfen, das Kunden- und Kaufverhalten besser zu verstehen.
+Für das Ziel müssen die Daten zunächst gründlich bereinigt werden, da sie sehr roh und unstrukturiert sind. Anschließend können wir durch eine explorative Analyse erste Muster, Zusammenhänge und wichtige Kennzahlen erkennen, die helfen, das Kundenverhalten besser zu verstehen.
 
 ### **Ziel:** 
 
@@ -26,8 +27,15 @@ Ziel ist es, das Kaufverhalten besser zu verstehen, wichtige Kundengruppen zu er
 
 **Methoden:** 
 <!-- Welche Techniken/Algorithmen verwendest du? -->
-
-✍️ später
+- Explorative Datenanalyse (EDA)
+    
+- RFM-Segmentierung
+    
+- Customer-Lifetime-Value-Berechnung (CLV)
+    
+- Zeitreihenanalyse (Moving Averages, STL)
+    
+- Logistische Regression
 
 
 ##  Datenquelle
@@ -37,7 +45,7 @@ https://www.kaggle.com/datasets/yunusemretokdemir/customer-segmentation/data
 
 Es handelt sich um unstrukturierte Rohdaten aus einer E-Commerce-Datenbank, vollständig in einer einzigen Tabelle abgelegt und nicht für Analysen vorbereitet. Die Datei enthält viele leere oder unvollständige Spalten.
 
-Nach Entfernen vollständig leerer Spalten wurden **60 Spalten** für die weitere Verarbeitung geladen.  
+Nach Entfernen vollständig leerer Spalten wurden **55 Spalten** für die weitere Verarbeitung geladen.  
 Die Daten kombinieren Kunden-, Bestell-, Bestellpositions- und Produktinformationen, jedoch ohne klare Trennung der Entitäten.
 
 ### Warum diese Daten?
@@ -105,9 +113,7 @@ Notebooks in dieser Reihenfolge ausführen:
 
 1. notebooks/01_exploration.ipynb - 01_Data_Overview.ipynb
 2. notebooks/02_preprocessing.ipynb - 02_Data_Cleaning.ipynb
-3. notebooks/03_modeling.ipynb - 03_Exploratory_Analysis.ipynb
-4. notebooks/04_results.ipynb 
-
+3. notebooks/03_modeling.ipynb - 03_Data_Analysis.ipynb
 <!--
 
 

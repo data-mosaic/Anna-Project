@@ -267,3 +267,4 @@ data/
 # temporary / draft files
 notebooks/*copy*.ipynb
 *(temp)*
+*(copy)*
