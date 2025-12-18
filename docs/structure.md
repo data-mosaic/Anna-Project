@@ -113,13 +113,13 @@ Statistische Modelle und Prognosen
 
 **5.1 Margenprognosemodelle**  
 
-Logistische Regression: Hochmargige Produkte nach Lieferant (Pseudo-R² = 0,75)  
+Logistische Regression: Hochmargige Produkte nach Lieferant  
 
 Streudiagramm: Wahrscheinlichkeit für hochmargige Produkte
 
 **5.2 Nachbestellprognosemodelle**  
 
-Verbessertes Modell: made_reorder ~ Recency_days + Monetary_total (Pseudo-R² = 0,154)  
+Verbessertes Modell: made_reorder ~ Recency_days + Monetary_total  
 
 Vollständiges Modell: + is_business  
 
